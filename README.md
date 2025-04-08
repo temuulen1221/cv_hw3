@@ -12,6 +12,6 @@ Distortion Coefficients:
 [[-0.12990722  1.18057736 -0.00715247 -0.01412767 -3.58919806]]
 # Lens distortion correction test result
 <video controls>
-  <source src="https://raw.githubusercontent.com/temuulen1221/cv_hw3/main/videos/rectified_chessboard.avi" type="video/avi">
+  <source src="https://github.com/temuulen1221/cv_hw3/blob/28948b0a1a3add6021f520f5fa3c37ae377aea43/rectified_chessboard.avi" type="video/avi">
   Your browser does not support the video tag.
 </video>
