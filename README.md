@@ -10,8 +10,7 @@ Camera Matrix (K):
  [  0.           0.           1.        ]]
 Distortion Coefficients:
 [[-0.12990722  1.18057736 -0.00715247 -0.01412767 -3.58919806]]
-# Lens distortion correction test result
-<video controls>
-  <source src="https://raw.githubusercontent.com/temuulen1221/cv_hw3/main/rectified_chessboard.avi" type="video/avi">
-  Your browser does not support the video tag.
-</video>
+# Lens Distortion Correction Test Result
+Result of lens distortion correction to the chessboard video:
+
+[View the rectified chessboard video](https://raw.githubusercontent.com/temuulen1221/cv_hw3/main/rectified_chessboard.avi)
